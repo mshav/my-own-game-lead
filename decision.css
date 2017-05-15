@@ -1,0 +1,191 @@
+.game{
+  color:white;
+  border:solid #c62735 4px;
+  border-radius: 37px;
+  background-color:#c60516;
+  width:310px;
+  margin-left: 550px;
+  font-family:monospace;
+  text-align :center;
+}
+body{
+background-image: url("http://papers.co/wallpaper/papers.co-ah69-street-fighter-ryu-art-illust-game-27-wallpaper.jpg");
+/*border:solid #c60516 4px;*/
+width:1200px;
+height: 600px;
+background-size: cover;
+}
+
+.box{
+margin-top: 15px;
+padding-left:4px;
+
+
+
+}
+
+.allbox{
+  color:white;
+  border:solid #c60516 4px;
+  border-radius: 10px;
+  background-color:#c60516;
+  width:300px;
+  height:100px;
+  margin-top: 169px;
+  /*font-family:monospace;*/
+  text-align :center;
+
+}
+.addbutton{
+/*color:#6b3030;*/
+/*background-color: #c60516;*/
+color:white;
+width:40px;
+margin-top:14px;
+padding-left:31px
+
+}
+
+.red{
+width:150px;
+height:150px;
+border: 3px solid #c60516;
+border-radius:10px;
+background-color: red;
+color:white;
+text-align:center;
+background-image:url("http://game-icons.net/icons/delapouite/originals/svg/torpedo.svg");
+background-size: cover;
+
+}
+
+.green{
+  width:150px;
+  height:150px;
+  border: 3px solid #c60516;
+  border-radius:10px;
+  background-color: white;
+  color:white;
+  text-align:center;
+  background-image:url("http://game-icons.net/icons/delapouite/originals/svg/revolver.svg");
+  background-size: cover;
+
+}
+
+.orange{
+
+  width:150px;
+  height:150px;
+  border: 3px solid #c60516;
+  border-radius:10px;
+  background-color: orange;
+  color:white;
+  text-align: center;
+  background-image:url("http://game-icons.net/icons/delapouite/originals/svg/chainsaw.svg");
+  background-size: cover;
+
+
+}
+.black{
+  width:150px;
+  height:150px;
+  border: 3px solid #c60516;
+  border-radius:10px;
+  background-color: black;
+  color:white;
+  text-align: center;
+  background-image:url("http://game-icons.net/icons/lorc/originals/svg/brain.svg");
+  background-size: cover;
+
+
+
+
+
+}
+
+.blue{
+width:150px;
+height:150px;
+border: 3px solid #c60516;
+border-radius:10px;
+background-color: red;
+color:black;
+text-align:center;
+background-image:url("https://thumbs.dreamstime.com/z/sport-games-fitness-icon-football-volleyball-icons-basketball-signs-dumbbell-baseball-winner-award-symbols-gray-flat-61033990.jpg");
+background-size: cover;
+
+}
+
+.purple{
+width:150px;
+height:150px;
+border: 3px solid #c60516;
+border-radius:10px;
+background-color: red;
+color:black;
+text-align:center;
+background-image:url("https://s-media-cache-ak0.pinimg.com/originals/5a/d3/1c/5ad31c6b1ed781aa869bceb4bc99b425.jpg");
+background-size: cover;
+
+}
+
+
+
+.off{
+opacity:0;
+/*display: none;*/
+}
+.final{
+/*display:;*/
+width:100%;
+
+/*display:inline-flex;*/
+}
+.gameblock{
+display:inline-block;
+float: left;
+margin-top: 0px;
+margin-left: 5px;
+padding-left:5px;
+}
+
+
+.grey{
+width:150px;
+height:150px;
+border: 3px solid #c60516;
+border-radius:10px;
+background-color: red;
+color:white;
+text-align:center;
+background-image:url("http://game-icons.net/icons/delapouite/originals/svg/torpedo.svg");
+background-size: cover;
+
+}
+
+
+.yellow{
+width:150px;
+height:150px;
+border: 3px solid #c60516;
+border-radius:10px;
+background-color: #913a85;
+color:white;
+text-align:center;
+background-image:url("http://oi.com.br/assets/images/cheat-sheet/icon-games-140x140.svg");
+background-size: cover;
+
+}
+
+.brown{
+width:150px;
+height:150px;
+border: 3px solid #c60516;
+border-radius:10px;
+background-color: #dce8dc;
+color:black;
+text-align:center;
+background-image:url("https://cdn2.iconfinder.com/data/icons/app-icons-2/100/icon_66244-512.png");
+background-size: cover;
+
+}
